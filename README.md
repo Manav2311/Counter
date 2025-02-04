@@ -37,9 +37,6 @@ A simple counter application built using React with a dark theme UI and smooth b
 - Click `➖` to decrease the count (cannot go below zero).
 - Click `🔄 Reset` to reset the counter to zero.
 
-## Screenshots
-![Counter App Screenshot](screenshot.png)
+## Genrated
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- made by ManavPrajapati
