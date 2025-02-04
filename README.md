@@ -39,4 +39,4 @@ A simple counter application built using React with a dark theme UI and smooth b
 
 ## Genrated
 
-- made by ManavPrajapati
+- Made By ManavPrajapati
